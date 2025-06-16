@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS DOCUMENT */
+body {
+  background-image: url("fotografije/pozadina.png");
+}
+p {
+  color: black;
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  background-color: rgba(198, 207, 203, 0.7);
+  padding: 20px;
+}
+h1, h2 {
+  color: rgb(255, 255, 153);
+  text-shadow: 2px 2px 4px #000;
+}
